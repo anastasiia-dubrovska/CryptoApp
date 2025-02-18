@@ -1,0 +1,16 @@
+<Page x:Class="CryptoApp.Views.DetailsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Details Page">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock Text="Currency Details" FontSize="24" FontWeight="Bold" Margin="0,10,0,20"/>
+            <TextBlock Text="Name: " FontWeight="Bold"/>
+            <TextBlock Text="{Binding Name}"/>
+            <TextBlock Text="Price (USD): " FontWeight="Bold"/>
+            <TextBlock Text="{Binding PriceUsd}"/>
+            <TextBlock Text="Market Cap: " FontWeight="Bold"/>
+            <TextBlock Text="{Binding MarketCapUsd}"/>
+        </StackPanel>
+    </Grid>
+</Page>

@@ -1,0 +1,22 @@
+<Page x:Class="CryptoApp.Views.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Main Page">
+  <Grid>
+    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+      <TextBlock Text="Top Cryptocurrencies" FontSize="24" FontWeight="Bold"
+                 Margin="0,10,0,20" TextAlignment="Center"/>
+      <ListView x:Name="CryptoListView" Width="400" Height="300">
+        <ListView.ItemTemplate>
+          <DataTemplate>
+            <StackPanel Orientation="Horizontal">
+              <TextBlock Text="{Binding Rank}" FontWeight="Bold" Margin="10,0"/>
+              <TextBlock Text="{Binding Name}" Margin="10,0"/>
+              <TextBlock Text="{Binding PriceUsd}" Foreground="Green" Margin="10,0"/>
+            </StackPanel>
+          </DataTemplate>
+        </ListView.ItemTemplate>
+      </ListView>
+    </StackPanel>
+  </Grid>
+</Page>
