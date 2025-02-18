@@ -1,0 +1,9 @@
+C:\Users\nastunja\Documents\GitHub\CryptoApp\CryptoApp\CryptoApp\obj\Debug\CryptoApp.csproj.AssemblyReference.cache
+C:\Users\nastunja\Documents\GitHub\CryptoApp\CryptoApp\CryptoApp\obj\Debug\MainWindow.baml
+C:\Users\nastunja\Documents\GitHub\CryptoApp\CryptoApp\CryptoApp\obj\Debug\MainWindow.g.cs
+C:\Users\nastunja\Documents\GitHub\CryptoApp\CryptoApp\CryptoApp\obj\Debug\App.g.cs
+C:\Users\nastunja\Documents\GitHub\CryptoApp\CryptoApp\CryptoApp\obj\Debug\CryptoApp_MarkupCompile.cache
+C:\Users\nastunja\Documents\GitHub\CryptoApp\CryptoApp\CryptoApp\obj\Debug\CryptoApp.g.resources
+C:\Users\nastunja\Documents\GitHub\CryptoApp\CryptoApp\CryptoApp\obj\Debug\CryptoApp.Properties.Resources.resources
+C:\Users\nastunja\Documents\GitHub\CryptoApp\CryptoApp\CryptoApp\obj\Debug\CryptoApp.csproj.GenerateResource.cache
+C:\Users\nastunja\Documents\GitHub\CryptoApp\CryptoApp\CryptoApp\obj\Debug\CryptoApp.csproj.CoreCompileInputs.cache
